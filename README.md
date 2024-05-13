@@ -1,4 +1,4 @@
-# inito-assignment
+# Inito-assignment
 
 The FileSystem class is a simplified representation of a file system. It provides methods for creating directories (mkdir), changing the current directory (cd), listing the contents of the current directory (ls), creating files (touch), writing to files (echo), reading from files (cat), moving files or directories (mv), copying files (cp), and deleting files or directories (rm). Also, for saving the file , type "exit save file_name.json", here file_name.json is the file where your state will be saved. And, to load the file type "load_state file_name.json", here the file_name is the name of saved json file that will be loaded in the system.
 
